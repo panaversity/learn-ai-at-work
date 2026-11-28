@@ -52,6 +52,8 @@ Owners like Amira hear big promises about AI. Your job is to give a plain, hones
 
 ## Do it with Claude
 
+> 🛠️ **Work with the [Panaversity AI Method](../docs/panaversity-ai-method.md).** Read Copperleaf's ask and the submission checklist first, use the prompts below as your brief (changing or writing them where this step says so), then improve your work with the [prompt for anything you write](../docs/panaversity-ai-method.md#a-prompt-for-anything-you-write), and check and keep it as **Check it** and **Keep it** say.
+
 **1. Sync and start a thread.** Sync your fork, pull in GitHub Desktop, and start a new thread for this step.
 
 **2. One job, three ways.** Choose one piece of Copperleaf's Monday work you already know, such as "find the payments that need a person". Do it three ways, saving what each gives you:

@@ -49,6 +49,8 @@ That explains most AI mistakes you will meet at work, and the fix is always the 
 
 ## Do it with Claude
 
+> 🛠️ **Work with the [Panaversity AI Method](../docs/panaversity-ai-method.md).** Read Copperleaf's ask and the submission checklist first, use the prompts below as your brief (changing or writing them where this step says so), then improve your work with the [prompt for anything you write](../docs/panaversity-ai-method.md#a-prompt-for-anything-you-write), and check and keep it as **Check it** and **Keep it** say.
+
 Use an ordinary Claude chat (not your project) for instructions 2 to 6, so no files or instructions are in front of it, and turn web search off for now. [Finding things in the apps](../step-00-readiness-check/README.md#turn-web-search-on-or-off) shows where both are. Record every answer in a table as you go.
 
 **1. Set up your notes.** In your project, start a new thread for this step and paste:

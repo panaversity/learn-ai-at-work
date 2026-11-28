@@ -33,6 +33,8 @@ Didn't pass most of them? That's fine, and common. Read the book's first section
 
 ## Part A: Set up
 
+> 🛠️ **The [Panaversity AI Method](../docs/panaversity-ai-method.md).** Part A is its step 2: you set up the environment you use for every step that follows.
+
 > 🎬 **Video walkthroughs (coming soon).** Short videos will show each part of the setup: creating your accounts, GitHub Desktop, forking and cloning, setting up the two AI apps, and committing and submitting your work. `TODO: VIDEO LINKS (the bootcamp team will add them here)`. Until then, follow the written steps below.
 
 Do each of these once. Where a screen looks different from what is described here, look for the nearest match: apps change their menus from time to time.

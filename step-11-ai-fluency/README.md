@@ -48,6 +48,8 @@ Ben's reminder list is exactly that kind of job. A 4D plan, written first, is wh
 
 ## Do it with Claude
 
+> 🛠️ **Work with the [Panaversity AI Method](../docs/panaversity-ai-method.md).** Read Copperleaf's ask and the submission checklist first, use the prompts below as your brief (changing or writing them where this step says so), then improve your work with the [prompt for anything you write](../docs/panaversity-ai-method.md#a-prompt-for-anything-you-write), and check and keep it as **Check it** and **Keep it** say.
+
 **1. Sync and start a thread.** Sync your fork, pull in GitHub Desktop, and start a new thread for this step.
 
 **2. Sort three jobs.** Paste:

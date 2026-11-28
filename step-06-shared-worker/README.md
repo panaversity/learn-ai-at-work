@@ -57,6 +57,8 @@ A **skill** is a saved set of steps the worker follows, such as "how we draft a 
 
 ## Do it with Claude
 
+> 🛠️ **Work with the [Panaversity AI Method](../docs/panaversity-ai-method.md).** Read Copperleaf's ask and the submission checklist first, use the prompts below as your brief (changing or writing them where this step says so), then improve your work with the [prompt for anything you write](../docs/panaversity-ai-method.md#a-prompt-for-anything-you-write), and check and keep it as **Check it** and **Keep it** say.
+
 In this step you play all three team members in one Claude project. Say who is speaking at the start of each request.
 
 **1. Sync and start a thread.** Sync your fork, pull in GitHub Desktop, and start a new thread for this step.

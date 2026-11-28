@@ -61,6 +61,8 @@ All in this step's `work/` folder:
 
 ## Do it with Claude
 
+> 🛠️ **Work with the [Panaversity AI Method](../docs/panaversity-ai-method.md).** Read Copperleaf's ask and the submission checklist first, use the prompts below as your brief (changing or writing them where this step says so), then improve your work with the [prompt for anything you write](../docs/panaversity-ai-method.md#a-prompt-for-anything-you-write), and check and keep it as **Check it** and **Keep it** say.
+
 **1. Sync and start a thread.** Sync your fork and pull in GitHub Desktop, as in step 1. Then start a new thread for this step in your Claude project.
 
 **2. Check that Claude can make files.** In Claude Desktop, **Settings → Capabilities** must have file creation turned on (Step 00, A6). Without it, Claude can describe a spreadsheet but can't make one.
@@ -94,11 +96,11 @@ Tell me which cells hold the grand total.
 Using the same figures and copperleaf/policies/credit-and-collections-policy.md, write a one-page Word memo to Amira, step-02-three-deliverables/work/claude/overdue-memo.docx. Cover: the total owed, how much is overdue, and the accounts with any invoice more than 30 days overdue. For each of those accounts, say what the policy's reminder schedule (section 5) and hold rule (section 4) call for now, citing the section. Recommend nothing the policy doesn't support, and mark anything that needs Rosa's or Amira's decision.
 ```
 
-**6a. Improve the memo: the Dr. Gilsdorf method (about 45 minutes).** Good writing is rewritten, many times, in small steps. Zia Khan, who leads this bootcamp, learned this from his business communication professor at Arizona State University, Dr. Gilsdorf, and calls this way of working with AI the **Dr. Gilsdorf method**: ask the best model you have to review and grade your work out of 10, improve it a little, and repeat; then, as a last step, give it to a *different* AI for an independent review and bring that review back. Iteration is the key. The book describes it in [How the Panaversity team works, "How do we improve the work?"](https://agentfactory.panaversity.org/claude-and-chatgpt-2/new-way-of-working/how-the-panaversity-team-works/#how-do-we-improve-the-work). Try it on the memo:
+**6a. Improve the memo: the Dr. Gilsdorf method (about 45 minutes).** Good writing is rewritten, many times, in small steps. Zia Khan, who leads this bootcamp, learned this from Dr. Gilsdorf, a business communication professor at Arizona State University, and calls this way of working with AI the **Dr. Gilsdorf method**: ask the best model you have to review and grade your work out of 10, improve it a little, and repeat; then, as a last step, give it to a *different* AI for an independent review and bring that review back. Iteration is the key. The book describes it in [How the Panaversity team works, "How do we improve the work?"](https://agentfactory.panaversity.org/claude-and-chatgpt-2/new-way-of-working/how-the-panaversity-team-works/#how-do-we-improve-the-work). Try it on the memo:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/gilsdorf-method-dark.png">
-  <img src="../assets/gilsdorf-method-light.png" alt="Start with your draft. Ask the best AI you have to review it and grade it out of 10. Improve it in one small step, then review and grade again, and repeat until the grade stops rising. Then give the work to a different AI for an independent review, paste that review back into your first AI, and do a last round. You read every change before you keep it." width="100%">
+  <img src="../assets/gilsdorf-method-light.png" alt="Start with your draft. Ask the best AI you have to run the checks, such as every figure matching its source, and grade the work out of 10. Improve it in one small step, then check and grade again, and repeat until every check passes and the grade reaches 9.5. Then give the work to a different AI for an independent review, without the first AI's grades, paste that review back into your first AI, fix what is right and run the checks again. You check the facts and read every change before you commit it. A failed check always outweighs a grade." width="100%">
 </picture>
 
 1. **Round 1: review and grade.** Paste:

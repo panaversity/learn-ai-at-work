@@ -53,6 +53,8 @@ A summary for a bank is exactly where this matters. A wrong figure there is not 
 
 ## Do it with Claude
 
+> 🛠️ **Work with the [Panaversity AI Method](../docs/panaversity-ai-method.md).** Read Copperleaf's ask and the submission checklist first, use the prompts below as your brief (changing or writing them where this step says so), then improve your work with the [prompt for anything you write](../docs/panaversity-ai-method.md#a-prompt-for-anything-you-write), and check and keep it as **Check it** and **Keep it** say.
+
 **1. Sync and start the writer thread.** Sync your fork and pull in GitHub Desktop. Start a new thread for this step and call it `Step 04 writer` ([Finding things in the apps](../step-00-readiness-check/README.md#a-thread-in-your-project-and-its-name) shows how to rename a thread).
 
 This step is the [Dr. Gilsdorf method](../step-02-three-deliverables/README.md#do-it-with-claude) from step 2 ([How the Panaversity team works](https://agentfactory.panaversity.org/claude-and-chatgpt-2/new-way-of-working/how-the-panaversity-team-works/#how-do-we-improve-the-work) in the book), done properly: a goal and grading guide written first, a separate reviewer thread that grades each round, and a second AI (ChatGPT) for the independent review at the end. Each round's grade goes in `work/rounds.md`.

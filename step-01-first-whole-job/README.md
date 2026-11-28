@@ -54,6 +54,8 @@ All in this step's `work/` folder:
 
 ## Do it with Claude
 
+> 🛠️ **Work with the [Panaversity AI Method](../docs/panaversity-ai-method.md).** Read Copperleaf's ask and the submission checklist first, use the prompts below as your brief (changing or writing them where this step says so), then improve your work with the [prompt for anything you write](../docs/panaversity-ai-method.md#a-prompt-for-anything-you-write), and check and keep it as **Check it** and **Keep it** say.
+
 **1. Get your copy up to date.** On your fork's page on GitHub, click **Sync fork → Update branch**. Then in GitHub Desktop, click **Fetch origin** and, if it appears, **Pull origin**. Your folder now has the bootcamp's latest files.
 
 **2. Open the files once yourself.** New to invoices and payments? Read [Receivables in five minutes](../copperleaf/README.md#receivables-in-five-minutes) first: one table of the words this bootcamp uses. Open `copperleaf/payments-week-44.csv` and `copperleaf/invoices.csv` in your spreadsheet app (double-click them, or use **File → Open**). Look at the columns. You should see 42 payments, and invoices with a status of `Open`, `Paid` or `Disputed`. Close them without saving.
