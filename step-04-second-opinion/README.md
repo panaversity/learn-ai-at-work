@@ -95,7 +95,7 @@ Then ask the reviewer for round 2 (`Grade it again under "Round 2".`). Stop when
 
 In this step, ChatGPT plays a different role: it is the **second opinion**.
 
-1. In your ChatGPT project (or, without one, a new chat with the same files attached), attach `work/goal.md`, `work/bank-summary.md`, `step-02-three-deliverables/work/claude/figures.csv` and the policy.
+1. **Best: Codex on the same folder.** If you have Codex, OpenAI's agent app, open your `learn-ai-at-work` folder in it, so it reads `work/goal.md`, `work/bank-summary.md`, `step-02-three-deliverables/work/claude/figures.csv` and the policy exactly as they are, and add to the prompt below: `Review only. Don't change any files.` **Otherwise:** in your ChatGPT project (or, without one, a new chat), attach those four files, or a zip of them that you ask Claude to make.
 2. Paste:
 
 ```text

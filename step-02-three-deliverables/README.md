@@ -111,7 +111,7 @@ Using the same figures and copperleaf/policies/credit-and-collections-policy.md,
 
 2. **Improve in a small step.** Read the list, decide which changes you agree with, and ask for only those: `Make changes 1 and 2 from Round 1, and nothing else. Keep every figure exactly as it is in figures.csv.`
 3. **Rounds 2 and 3.** Ask for the review and grade again (`Same review, as "Round 2"`), and improve again. Stop when the grade stops rising, or after three rounds.
-4. **A second AI's review.** In ChatGPT, attach the memo and `figures.csv`, and paste:
+4. **A second AI's review.** If you have Codex, OpenAI's agent app, open your bootcamp folder in it, point it to the memo and `figures.csv`, and add `Review only. Don't change any files.` to the prompt below. Otherwise, in ChatGPT, attach the memo and `figures.csv`. Then paste:
 
    ```text
    Review this memo for Copperleaf's owner. Grade it out of 10 and list what would most improve it. Say if any figure doesn't match figures.csv.

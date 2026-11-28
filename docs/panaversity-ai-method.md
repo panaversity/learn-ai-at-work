@@ -117,7 +117,7 @@ You set it up once, in [Step 00](../step-00-readiness-check/README.md), Part A, 
 | Version control and shared copy | Git and GitHub |
 | Your review and commits | GitHub Desktop |
 | Your own reading and editing | VS Code, or any text editor |
-| Independent AI reviewer | ChatGPT |
+| Independent AI reviewer | ChatGPT: Codex on the same folder, or ChatGPT on the web with a zip |
 
 **Keep your work in text formats.** While the work takes shape, keep it as Markdown for writing and CSV for tables. Then every change shows line by line in GitHub Desktop, and the history shows what changed and when. Turn the work into Word or PowerPoint only at the end, if a reader needs it, and keep the Markdown as the source: edit it and export again, never the Word file.
 
@@ -160,7 +160,7 @@ A first draft is rarely the best one, and many small rounds of improvement are t
 
 1. **Claude runs the checks and grades the work out of 10** in each area, with the best model your plan offers. Every grade cites its evidence, such as the file and row a figure came from.
 2. **Claude improves it until each area reaches 9.5 and every check passes.** It improves a little, checks and grades again, and repeats. A grade goes up only when the work changed or new evidence came in.
-3. **A different AI reviews it independently,** such as ChatGPT. Give it the brief, the checks, the source files and the work, but not Claude's grades, so it judges the work for itself. Ask for findings, each with the problem, its evidence, how serious it is and a fix.
+3. **A different AI reviews it independently,** ChatGPT first. The best way is to open the same folder in **Codex**, OpenAI's agent app, and tell it to review only and change no files: it then reads the brief, the checks, Copperleaf's files and the work exactly as they are. If you can't use Codex, ask Claude to make a zip of those files and give the zip to ChatGPT on the web. Either way, don't show it Claude's grades, so it judges the work for itself. Ask for findings, each with the problem, its evidence, how serious it is and a fix.
 4. **Paste the review back into Claude,** which weighs each finding, fixes the ones that hold up, and says why it rejected any others.
 5. **Claude runs every check again on the final version,** because a fix can break something that was right before. Only then does the work go to Step 5.
 
@@ -214,7 +214,7 @@ Paste this into the step's thread when a deliverable is ready, before you commit
 Before I keep this, check every figure and fact in it against Copperleaf's files and list any that don't match. Then grade it out of 10 in three areas: accuracy, quality, and how easy it is for the reader to understand. Give the evidence for each grade. A wrong figure counts for more than any grade. Improve it in small rounds until every check passes and each area reaches 9.5, for at most three rounds, and then list anything still open and anything you couldn't check. Never commit or push.
 ```
 
-Then give the work and its sources to a second AI, such as ChatGPT, and ask it to review and grade the same three areas, with specific fixes and evidence. Don't show it Claude's grades. Paste its review back into the thread and ask Claude to weigh each point, fix what is right, and check the facts again.
+Then ask a second AI to review it: open the same folder in Codex and tell it to review only, or, if you can't, ask Claude for a zip of the work and its sources and give it to ChatGPT on the web. Ask it to review and grade the same three areas, with specific fixes and evidence. Don't show it Claude's grades. Paste its review back into the thread and ask Claude to weigh each point, fix what is right, and check the facts again.
 
 ## Checklist before you tag a step
 
