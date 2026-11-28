@@ -12,6 +12,7 @@ One idea sits under all five steps: **AI does most of the work, and a person dec
 ## Contents
 
 - [The five steps at a glance](#the-five-steps-at-a-glance)
+- [Your first time](#your-first-time)
 - [Words you need](#words-you-need)
 - [How much of the method to use](#how-much-of-the-method-to-use)
 - [Step 1: Understand and define the problem](#step-1-understand-and-define-the-problem)
@@ -34,6 +35,18 @@ One idea sits under all five steps: **AI does most of the work, and a person dec
 | **3. Write the four-part brief** | Outcome, context, format and constraints, with the checks the work must pass. | Until step 12, each step's prompts under **Do it with Claude** are briefs written for you: read each one before you paste it, so you know what "done" means. From step 13 you change them to fit (each step's 🧭 note says how far), in [step 17](../step-17-four-part-brief/README.md) you learn the four parts, from step 21 you write them, and in the capstone you write one for a task from your own role. |
 | **4. Improve the work with the Dr. Gilsdorf method** | Grade and improve the work in rounds toward 9.5 out of 10, run the checks, and get an independent review from a second AI. | You try it in [step 2](../step-02-three-deliverables/README.md) and do it in full in [step 4](../step-04-second-opinion/README.md). After that, use the [prompt below](#a-prompt-for-anything-you-write) on anything you write. The step's **Check it** section and checklist are the pass-or-fail checks. |
 | **5. Check and commit** | A person checks the final result, approves it and saves it as the official version. | Each step's **Check it** and **Keep it** sections: check the facts against Copperleaf's files, open any Word or slide file the job made, read the changes in GitHub Desktop, then commit, tag `step-NN-done` and push them yourself, and submit as [SUBMITTING.md](../SUBMITTING.md) says. |
+
+## Your first time
+
+You don't need every part of the method on day one. In [Step 00](../step-00-readiness-check/README.md) and step 1, do just this:
+
+1. Read Copperleaf's ask and say in one sentence what "done" means.
+2. Fork and clone the repo, and add the folder and your fork to a Claude project that is told never to commit or push.
+3. In one thread, paste the step's prompt: it is your brief.
+4. Check the result yourself, as the step's **Check it** section shows.
+5. Read the changes in GitHub Desktop, then commit, tag and push them yourself.
+
+From step 2 you add the grading rounds and the second AI's review, and by step 4 you use all five steps.
 
 ## Words you need
 
@@ -166,7 +179,7 @@ AI can be confidently wrong, so the last word belongs to a person. You decide wh
 1. **Check the facts against their sources.** Start with the list of anything Claude couldn't verify. Recompute a total or two yourself, as each step's **Check it** section shows.
 2. **Review any problems still open** from the grades and the second AI's review, and decide on each one.
 3. **Make the final formats a reader needs.** If Rosa needs a Word memo or a slide deck, have Claude make it from the Markdown, save it in `work/` beside its source, then open it as Rosa would and check that nothing was lost: tables, figures and page breaks.
-4. **Read the diff in GitHub Desktop,** including new files. Keep or discard each change, so you know exactly what you are accepting.
+4. **Read the diff in GitHub Desktop,** including new files. Keep or discard each change, so you know exactly what you are accepting. If a cloud session did some of the work, read its branch the same way before you bring it into your work.
 5. **Commit by hand** with a message that says what changed. If anything changed after Claude's final checks, check those parts again first. Then tag the commit `step-NN-done` and push it to your fork, as each step's **Keep it** section shows.
 
 **On a team** (at work, not in this bootcamp), your work goes on a separate branch, and the project owner reviews it in a pull request before it joins the main version. Never open a pull request to the bootcamp repo.
