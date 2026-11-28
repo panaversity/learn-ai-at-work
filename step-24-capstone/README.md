@@ -152,6 +152,7 @@ Do this last, after the ChatGPT run and your defence. Every step ends this way: 
 - [ ] `work/prompts.md`: every prompt you wrote for this step
 - [ ] **Defence:** a link to your recorded project defence, ready for the form
 - [ ] **Changed-data check:** done within 48 hours of receiving the files, supervised or in one continuous recording (you can't graduate without it)
+- [ ] **Required reading:** you read [Sell the work, not the software](https://agentfactory.panaversity.org/from-skills-to-income/sell-the-work-not-the-software/) and the three pages after it, and `NOTES.md` says in a short paragraph which service you would sell first, to whom, and at what price per result
 - [ ] Committed, tagged `step-24-done` and pushed
 
 ## References

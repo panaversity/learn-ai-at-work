@@ -82,6 +82,20 @@ On the way you pass three levels: **AI Work Practitioner**, **AI Worker Designer
 - **A path to earning.** The same skills, used for other companies, are the start of client work and of the Forward Deployed Engineer (FDE) route in [The FDE 2027 Master Plan](https://agentfactory.panaversity.org/fde-2027-master-plan/). [From Skills to Income](https://agentfactory.panaversity.org/from-skills-to-income/overview/) shows the routes.
 - **The foundation for building.** It prepares you for our developer bootcamp, [Build and Sell MCP Apps](https://github.com/panaversity/learn-mcp) (see [What comes next](#what-comes-next)).
 
+## Required entrepreneurial reading
+
+Every Panaversity bootcamp asks you to read **[Sell the work, not the software](https://agentfactory.panaversity.org/from-skills-to-income/sell-the-work-not-the-software/)**, four short pages in *The AI Agent Factory*, before you graduate. It explains AI-native services firms, which do a business service with AI Workers and sell the finished work instead of software. It shows how they are changing whole industries, and how graduates of the three bootcamps can start one: which service to pick, how to price the result, a 90-day plan, a worked example of the numbers and the risks.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/maturity-model-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/maturity-model-light.png">
+  <img src="assets/maturity-model-light.png" alt="The AI-Native Services Maturity Model as five rising steps, each a business you can run while you build the next. Level 1, AI-assisted professional: one person doing tasks faster (CCAO-F Bootcamp, first half). Level 2, AI-assisted service firm: a team delivering existing services faster (CCAO-F Bootcamp, second half). Level 3, AI-native service firm: Digital FTEs do the work and people check and sign (CCDV-F Part I). Level 4, self-improving service firm: evaluated feedback improves the workers (CCDV-F Part II). Level 5, AI-native services platform: one standard service for many clients and markets (all three bootcamps, plus real clients). Levels 1 and 2 highlighted: where this bootcamp takes you." width="100%">
+</picture>
+
+The reading's maturity model shows the five stages of an AI-native services firm. The highlighted steps are where this bootcamp takes you.
+
+Read it before you start the capstone: by then you will have met the ideas it builds on, such as AI Workers, checks and sign-off. The parts about servers and code belong to the later bootcamps, so skim those. The Step 24 capstone's submission checklist asks you to write, in `NOTES.md`, which service you would sell first, to whom, and at what price per result.
+
 ## Your client: Copperleaf Supply
 
 Every step is work for one client, so every step has a real reason behind it. **Copperleaf Supply** is a fictional, family-owned company that delivers coffee, cups, cleaning and kitchen supplies to cafés, restaurants and hotels. You join its finance team as the person who puts AI to work.
